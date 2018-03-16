@@ -1,0 +1,19 @@
+{
+  "name": "simple-search-engine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schipiga/simple-search-engine.git"
+  },
+  "author": "Sergei Chipiga <chipiga86@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/schipiga/simple-search-engine/issues"
+  },
+  "homepage": "https://github.com/schipiga/simple-search-engine#readme"
+}
