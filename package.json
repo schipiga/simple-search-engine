@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/schipiga/simple-search-engine/issues"
   },
-  "homepage": "https://github.com/schipiga/simple-search-engine#readme"
+  "homepage": "https://github.com/schipiga/simple-search-engine#readme",
+  "dependencies": {
+    "natural": "^0.5.6",
+    "synaptic": "^1.1.4"
+  }
 }
